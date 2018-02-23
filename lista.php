@@ -24,7 +24,7 @@ if (isset($_SESSION["entrada"])){*/
             else echo "";
         }
         echo "],";
-        $res->close();//cierro la conexión
+        $res->close();//cierro la conexión -.-
 
 
     /*}
